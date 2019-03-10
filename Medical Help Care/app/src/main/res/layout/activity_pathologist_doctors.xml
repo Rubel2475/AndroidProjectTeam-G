@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bachelorshelter.anik.medicaladviser.activities.PathologistDoctors"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/gyn1"
+        android:layout_margin="10dp"
+        style="@style/Widget.AppCompat.AutoCompleteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dr. Hafizur Rahman MBBS, FRCOG (London) Senior Consultant,Popular Medical College and Hospital Phone:+88029669480"
+        android:visibility="visible"
+        tools:ignore="MissingConstraints"/>
+
+    <TextView
+        android:id="@+id/gyn2"
+        android:layout_margin="10dp"
+        style="@style/Widget.AppCompat.AutoCompleteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dr. Maliha Rashid MBBS, FCPS (Gynae and Obs) Professor of Obstetrics and Gynaecology and Academic Coordinator Central Hospital Ltd. Phone: +880 2-9660015"
+        tools:ignore="MissingConstraints" />""
+
+</LinearLayout>

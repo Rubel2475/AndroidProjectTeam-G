@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.bachelorshelter.anik.medicaladviser.activities.DermatologistActivity">
+
+    <TextView
+        android:layout_margin="10dp"
+        android:id="@+id/der1"
+        style="@style/Widget.AppCompat.AutoCompleteTextView"
+        android:text="Professor Dr. A. Z. M. Maidul Islam
+            MBBS, D.D, AEL (Paris), FAAD ( USA )
+            Former Chairman, Department of Dermatology, BSMMU
+            Chamber: Maidul Skin Care Center
+            Phone: +880 1722068043"
+        tools:ignore="LabelFor,MissingConstraints,TextFields"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent" />
+
+    <TextView
+        android:layout_margin="10dp"
+        android:id="@+id/der2"
+        style="@style/Widget.AppCompat.AutoCompleteTextView"
+        android:text="Professor Dr. Mir Nazrul Islam
+            MBBS, DDS, MSc, FRCP ( Glasgow )
+            Professor, Department of Dermatology
+            BIRDEM and Ibrahim Medical College, Shahbagh, Dhaka
+            Chamber: Labaid Cardiac Hospital"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        tools:ignore="LabelFor,MissingConstraints,TextFields"/>
+
+</LinearLayout>

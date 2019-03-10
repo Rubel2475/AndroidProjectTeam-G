@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bachelorshelter.anik.medicaladviser">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".app.AppController"
+        android:allowBackup="true"
+        android:icon="@mipmap/mhc"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/mchr"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activities.SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.WelcomeActivity"
+            android:theme="@style/HiddenTitleTheme" />
+        <activity
+            android:name=".activities.MainActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".activities.SearchActivity"
+            android:theme="@style/HiddenTitleTheme" />
+        <activity android:name=".activities.SearchResultActivity" />
+        <activity android:name=".activities.AddReviewActivity" />
+        <activity
+            android:name=".activities.TipsFullActivity"
+            android:label="@string/title_activity_test"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.DiseaseFullActivity"
+            android:label="@string/title_activity_disease_full"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".activities.OnlineHospital" />
+        <activity android:name=".activities.PathologistDoctors" />
+        <activity android:name=".activities.CardiologistActivity" />
+        <activity android:name=".activities.DermatologistActivity" />
+        <activity android:name=".activities.NephrologistActivity" />
+        <activity android:name=".activities.GynecologistActivity" />
+        <activity android:name=".activities.EyeSpecialistActivity" />
+        <activity android:name=".activities.NeurologistActivity"></activity>
+    </application>
+
+</manifest>

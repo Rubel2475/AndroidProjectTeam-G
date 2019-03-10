@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/anik/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_e1e4840ba3365fcc3b9cbdfc343facddb708b492.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/1e488a3a48c0ee985d63e2c6c9b4c9417a1177b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_52b869e0da632618851abf6d9628e2816bd06788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/e0393d2dca66d48d07d21bdda122e1a5eeb0d7b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_ffa48db6da37b673ab879cfcd0b3bffb74970613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/ba2d54205bd467d53b71b03d292e48fbf6f0869a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_846de807cf3de125594a351d35411158dbab3705.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/995a0286943d2c522e61d200b134f1611d867939/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_588f7826b4356568c572318cbdd097887f45d49a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/4b735a2f866d6205741a30cc98715218d1094052/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_340542e5b7a6d302e08825a42bf081c210070c9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/c79a3cbae62892ae4f1ad94c49e0a40eb3b787a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_8225a997069355462f6855e8b7dad9bc2ebb1625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/9c5feb4008ad6eb0a4d9d361312c351c57ee008d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_0827877fa36027de8ab7006019a029875613c0e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/0efba3be5f237b2aeb5ba35edef1d502ebaeddc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_940d7f599abbb6f997fb9a28519cd00d5b8b27df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="407df512706535256c357443dfc4300306072676">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_67e3d2958369ec256ace9f1d1bb0f6502dd0317f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0212a8c8ea0e1034b50b1c2d9e78490a835d3934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/4265268e399bc946fab7bbaed5e3e1505b876524/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_e02075da0f88d1e3facde86df99e8b9fdc6d4155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/f159a0b9389592f350dc292b1cfd324657f09c34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_7044e5f5228243d7d0349e5cbd47e172e216f8d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/84700022bfd6a09cd21a4ddf846ff4d4b599e384/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_952420c0336bf477431de4057cc49c851c0f57b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5186721a4a0e4a94ff33d1df2575f69801a9a4e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/b9173d6338036dce8716996482c56f4b2f4e7529/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_471075047790fd01d5f92dac921c4a3b1b71779b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/ede6308818b0ef1a80d7b3cb6bd848e13567a9f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_ac3e8aca1a14f628d7e84be50f81207ae711215a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/96ed7cb25050e83b27bf5e27c1587df31215a78c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_9638bd2c703bad85efb3eb1d99f0e49e5b4476fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/gson-2.8.0_b5e00ff5ed6f023791e1fd996177519085ec4066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/f6379e656df7d4b11bdc9d331e250cc3ff060147/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_4261e91b0e4e2bcea7cf6311d0a07fc163068fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/1777267a0649f1dc6ce0c1f73a7b771a1fa8a3a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_b638e26829f57009a4df559911e3e0bae9944660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anik/.android/build-cache/2306b7cec408afa25d8be39fd9d3a5678ad87ae1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/media/anik/Study Resource/Programming Retlated/Android/MedicalAdviser-master/app/build/intermediates/pre-dexed/debug/classes_7787dec69243a8a158bbddf96307031ccd809d8a.jar" />
+    </item>
+
+</items>

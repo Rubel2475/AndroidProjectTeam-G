@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.bachelorshelter.anik.medicaladviser.activities.OnlineHospital">
+
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="7dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="Cardiologist"
+        android:textColor="@android:color/background_dark"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="Dermatologist/Skin Specialist"
+        android:textStyle="bold"
+        tools:ignore="DuplicateIds" />
+
+    <Button
+        android:id="@+id/b3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="Nephrologist"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="Neurologist"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="Gynecologist"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="Pathologist"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="Eye Specialist"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="Dentist"
+        android:textStyle="bold" />
+
+</LinearLayout>

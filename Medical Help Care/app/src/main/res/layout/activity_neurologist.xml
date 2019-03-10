@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bachelorshelter.anik.medicaladviser.activities.NeurologistActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/nep1"
+        android:layout_margin="10dp"
+        style="@style/Widget.AppCompat.AutoCompleteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Professor Dr. Md. Ayub Ali Chowdhury MBBS, FCPS (Medicine), MD (Nephrology) Professor, Department of Nephrology Phone: +880-2-9126625-6, 9128835-7"
+        android:visibility="visible"
+        tools:ignore="MissingConstraints"/>
+
+    <TextView
+        android:id="@+id/nep2"
+        android:layout_margin="10dp"
+        style="@style/Widget.AppCompat.AutoCompleteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Professor Dr. Md. Firoz Khan MBBS, MD, FRCP ( England ), ISN fellow ( Japan ) Professor, Department of Nephrology Phone: +880-2-9661213"
+        tools:ignore="MissingConstraints" />""
+
+</LinearLayout>

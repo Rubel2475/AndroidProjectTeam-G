@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bachelorshelter.anik.medicaladviser.activities.CardiologistActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/car1"
+        android:layout_margin="10dp"
+        style="@style/Widget.AppCompat.AutoCompleteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Professor Dr. Md. Faruque MBBS, MD Professor, Department of Cardiology National Institute of Cardiovascular Diseases Hospital, Dhaka Chamber: Anwer Khan Modern Hospital Ltd.  Phone: +880-2-8613883"
+        android:visibility="visible"
+        tools:ignore="MissingConstraints"/>
+
+    <TextView
+        android:id="@+id/car2"
+        android:layout_margin="10dp"
+        style="@style/Widget.AppCompat.AutoCompleteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dr. Lutfor Rahman MBBS, MS (CTS) Chief Cardiac Surgeon, Labiad Cardiac Hospital  Phone: +8801713035970, +880-2-8836000"
+        tools:ignore="MissingConstraints" />""
+
+</LinearLayout>

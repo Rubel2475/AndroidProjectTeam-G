@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Medical Help Care</string>
+
+
+    <string name="welcome1_head">Search</string>
+    <string name="welcome2_head">Blood Bank</string>
+    <string name="welcome3_head">Online Hospital</string>
+
+    <string name="welcome1_desc">Find medical diagnostic center,hospital and medical test info in your nearest area</string>
+    <string name="welcome2_desc">Get all the blood bank info for your emergency</string>
+    <string name="welcome3_desc">Secect your disease type and conference with doctors" </string>
+    <string name="welcome4_desc">The complete medical assistant</string>
+
+    <string name="get_started">Get Started</string>
+    <string name="log_in">Log In</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="action_edit_location">Edit Location</string>
+    <string name="title_tips">Tips</string>
+    <string name="title_disease">Disease</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_search_fragment">Hello From Search</string>
+    <string name="hello_disease_fragment">Hello From Disease</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+        "Bold, graphic, intentional.\n\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+        "Motion provides meaning.\n\n"
+        "3D world.\n\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+        "Light and shadow.\n\n"
+        "Resting elevation.\n\n"
+        "Component elevations.\n\n"
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+        "Avoiding elevation interference.\n\n"
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_disease_full">DiseaseFullActivity</string>
+    <string name="title_activity_eye_specialist">EyeSpecialistActivity</string>
+</resources>
