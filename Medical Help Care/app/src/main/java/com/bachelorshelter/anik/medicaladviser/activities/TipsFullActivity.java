@@ -77,7 +77,6 @@ public class TipsFullActivity extends AppCompatActivity {
 
             @Override
             protected Map<String, String> getParams() {
-                // Posting parameters to login url
                 Map<String, String> params = new HashMap<>();
                 params.put("tips_id", id);
                 return params;

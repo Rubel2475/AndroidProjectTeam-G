@@ -87,9 +87,6 @@ public class SearchResultActivity extends AppCompatActivity implements SearchRes
         });
 
         fetchSearch("has_test_price");
-
-        //fetchSearch();
-
     }
 
 
