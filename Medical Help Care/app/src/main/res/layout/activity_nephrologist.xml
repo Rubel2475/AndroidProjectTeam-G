@@ -9,7 +9,7 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/neu1"
+        android:id="@+id/gyn1"
         android:layout_margin="10dp"
         style="@style/Widget.AppCompat.AutoCompleteTextView"
         android:layout_width="match_parent"
@@ -17,21 +17,41 @@
         android:text="Professor Dr. Quazi Deen Mohammad
 Qualification: MBBS, FCPS, MD (Neurology)
 Designation:Director, National Institute of neurosciences"
-
         android:visibility="visible"
         tools:ignore="MissingConstraints"/>
+    <Button
+        android:id="@+id/videoButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="video Conference"
+        android:textStyle="bold"
+        tools:ignore="DuplicateIds" />
+
 
     <TextView
-        android:id="@+id/neu2"
+        android:id="@+id/gyn2"
         android:layout_margin="10dp"
         style="@style/Widget.AppCompat.AutoCompleteTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Professor Dr. Mansur Habib
+        android:text="\n\nProfessor Dr. Mansur Habib
 Qualification : MBBS, FCPS ( Medicine ) , MD ( Neurology ) MRCP, FRCP
-Designation : Professor , Department of Neurology
-Expertise : Neuromedicine
-Organization: Dhaka Medical College Hospital "
+Designation : Professor , Department of Neurology"
         tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/videoButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="video Conference"
+        android:textStyle="bold"
+        tools:ignore="DuplicateIds" />
+
 
 </LinearLayout>
