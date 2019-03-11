@@ -20,7 +20,59 @@
 
     <TextView
         android:id="@+id/car2"
+        android:layout_margin="10dp"<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bachelorshelter.anik.medicaladviser.activities.CardiologistActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/car1"
         android:layout_margin="10dp"
+        style="@style/Widget.AppCompat.AutoCompleteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Professor Dr. Md. Faruque\nChief Cardiac Surgeon, Cardiovascular Diseases Hospital\nPhone: +880-2-8613883"
+        android:visibility="visible"
+        tools:ignore="MissingConstraints"/>
+
+    <Button
+        android:id="@+id/videoButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="video Conference"
+        android:textStyle="bold"
+        tools:ignore="DuplicateIds" />
+
+    <TextView
+        android:id="@+id/car2"
+        style="@style/Widget.AppCompat.AutoCompleteTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="\n\n\nDr. Lutfor Rahman\nChief Cardiac Surgeon, Labiad Cardiac Hospital\nPhone: +8801713035970"
+        tools:ignore="MissingConstraints" />""
+
+    <Button
+        android:id="@+id/VideoButton2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:background="@color/dot_dark_screen1"
+        android:text="video Conference"
+        android:textStyle="bold"
+        tools:ignore="DuplicateIds" />
+
+
+</LinearLayout>
         style="@style/Widget.AppCompat.AutoCompleteTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
